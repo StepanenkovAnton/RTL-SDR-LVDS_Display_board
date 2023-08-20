@@ -1,0 +1,11 @@
+Record=TopLevelDocument|FileName=AlarmRelay.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=AlarmRelay.SchDoc|FileName=AnalogInputs.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=AlarmRelay.SchDoc|FileName=CANBUS.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=AlarmRelay.SchDoc|FileName=DigitalInputs.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=AlarmRelay.SchDoc|FileName=Ethernet.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=AlarmRelay.SchDoc|FileName=LED_DRIVER.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=AlarmRelay.SchDoc|FileName=Power.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=AlarmRelay.SchDoc|FileName=SerialCommunication1.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=AlarmRelay.SchDoc|FileName=SerialCommunication2.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=AlarmRelay.SchDoc|FileName=SerialCommunication.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=AlarmRelay.SchDoc|FileName=Sheet1.SchDoc|SheetNumber=2
